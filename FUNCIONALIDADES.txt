@@ -1,0 +1,32 @@
+Ver que los datos de posicion se guarden en un objeto    
+                      
+
+
+Como Developer
+
+    Criterios de confirmación:
+
+
+Como Persona interesada en el producto
+Quiero verificar los comandos avanzar del auto
+Para poder ver si el auto logra moverse y cumpla con el 100% de cobertura
+    Criterios de confirmación:
+
+
+Como Persona interesada en el producto
+Quiero verificar instruccion Girar a la izquierda y/o derecha
+Para poder ver si el auto logra girar correctamente con la semantica propuesta
+    Criterios de confirmación:
+
+
+Como Persona interesada en el producto
+Quiero verificar si el auto respeta con los limites de la grilla
+Para poder ver si el la funcion cumple correctamente con la semantica propuesta
+    Criterios de confirmación:
+
+
+Como Persona interesada en el producto
+Quiero verificar comandos complejos 
+Para poder ver si es capaz cumplir correctamente con la semantica propuesta
+    Criterios de confirmación:
+  
